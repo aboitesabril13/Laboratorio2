@@ -1,0 +1,5 @@
+C:\Users\Abril\Desktop\Lab2\Lab2\Lab2\bin\Lab2.dll
+C:\Users\Abril\Desktop\Lab2\Lab2\Lab2\bin\Lab2.pdb
+C:\Users\Abril\Desktop\Lab2\Lab2\Lab2\obj\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Abril\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.dll
+C:\Users\Abril\Desktop\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb

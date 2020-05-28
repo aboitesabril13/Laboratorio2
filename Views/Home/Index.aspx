@@ -8,9 +8,9 @@
 </head>
 <body>
     <h1>Menu de opciones:</h1>
-    <a href="/Video/Create">Agregar Video</a>
-    <a href="/Video/Edit">Modificar Video</a>
-    <a href="/Video/Delete">Eliminar</a>
-    <a href="/Video/Index">Consultar todos los videos</a>
+    <a href="/Video/Create">Agrega Video</a>
+    <a href="/Video/Edit">Modifica Video</a>
+    <a href="/Video/Delete">Elimina video</a>
+    <a href="/Video/Index">Consulta todos los videos</a>
 </body>
 </html>
